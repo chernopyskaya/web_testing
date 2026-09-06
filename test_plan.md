@@ -44,9 +44,8 @@
 
 ## Артефакты
 
-| Документ | Ссылка |
-|---|---|
-| ✅ Чек-лист на вёрстку | [`layout_checklist.md`](./layout_checklist.md) |
-| ✅ Чек-лист на логику окон | [`payment_logic_checklist.md`](./payment_logic_checklist.md) |
-| ✅ Тест-кейсы на кнопку «Забронировать» | [`booking_button_test_cases.md`](./booking_button_test_cases.md) |
-| 🐞 Баг-репорты | [Google Таблица](#) |
+- 📋 [Тест-план](./test_plan.md)
+- ✅ [Чек-лист на вёрстку](./checklist_for_layout.md)
+- ✅ [Чек-лист на логику окон «Способ оплаты» и «Добавление карты»](./payment_logic_checklist.md)
+- ✅ [Тест-кейсы на кнопку «Забронировать»](./booking_button_test_cases.md)
+- 🐞 [Баг-репорты](./bug_reports.md)
